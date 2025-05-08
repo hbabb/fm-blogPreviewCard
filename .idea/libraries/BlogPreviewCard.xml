@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BlogPreviewCard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/blog-preview-card-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/blog-preview-card-figma.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
